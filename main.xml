@@ -21,34 +21,50 @@
     <link>https://raw.githubusercontent.com/Trapper69/trappor/master/genre_movies.xml</link>
   </dir>
   
-  <dir>
-    <title>Movie Years</title>
-    <link>https://raw.githubusercontent.com/Trapper69/trappor/master/tmdbyear2.xml</link>
-  </dir>
+<dir>
+<title>Movie Years</title>
+<link>https://raw.githubusercontent.com/Trapper69/trappor/master/tmdbyear2.xml</link>
+</dir>
 
 <dir>
     <title>Networks</title>
     <link>https://raw.githubusercontent.com/Trapper69/trappor/master/networks.xml</link
   </dir>
-  
-   <dir>
+
+  <dir>
+<title>Imb</title>
+<link>https://raw.githubusercontent.com/Trapper69/trappor/master/imdb.xml</link>
+</dir>
+
+<dir>
+<title>testings</title>
+<link>https://raw.githubusercontent.com/Trapper69/trappor/master/testings.xml</link>
+</dir>
+
+
+<dir>
 <title>Trapper tv shows</title>
 <tmdb>list/https://www.themoviedb.org/list/46939</tmdb>
 </dir>
 
 <dir>
+<title>lists</title>
+<tmdb>list/http://www.imdb.com/user/ur84874002/lists</tmdb>
+</dir>
+
+<dir>
 <title>anime-tv-show</title>
-<trakt>https://trakt.tv/users/trapper-12/lists/anime-tv-show</trakt>
+<trakt>list/https://trakt.tv/users/trapper-12/lists/anime-tv-show</trakt>
 </dir>
 
 <dir>
 <title>dc</title>
-<trakt>https://trakt.tv/users/jarvis-3589129/lists/dc</trakt>
+<trakt>list/https://trakt.tv/users/jarvis-3589129/lists/dc</trakt>
 </dir>
 
 <dir>
 <title>list</title>
-<trakt>https://trakt.tv/users/jarvis-3589129/lists</trakt>
+<trakt>list/https://trakt.tv/users/jarvis-3589129/lists</trakt>
 </dir>
   
 <dir>
