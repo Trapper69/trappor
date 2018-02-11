@@ -47,7 +47,7 @@
 
 <dir>
 <title>IMDB Popular</title>
-<imdburl>movies/popular</imdburl>
+<imdburl>http://www.imdb.com/chart/tvmeter</imdburl>
 </dir>
 
 <dir>

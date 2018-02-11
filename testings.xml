@@ -17,15 +17,30 @@ Folder
 Trakt
 
 <dir>
-<title>Trakt Test</title>
-<trakt></trakt>
+<title>Trakt dc Test</title>
+<trakt>https://trakt.tv/users/trapper-12/lists/dc</trakt>
+</dir>
+
+<dir>
+<title>Trakt anime-tv-show Test</title>
+<trakt>https://trakt.tv/users/trapper-12/lists/anime-tv-show</trakt>
+</dir>
+
+<dir>
+<title>Trakt watchlist Test</title>
+<trakt>https://trakt.tv/users/trapper-12/watchlist</trakt>
 </dir>
 
 TMDB
 
 <dir>
-<title>TMDB Test</title>
-<tmdb></tmdb>
+<title>TMDB lists Test</title>
+<tmdb>list/http://www.imdb.com/user/ur84874002/lists</tmdb>
+</dir>
+
+<dir>
+<title>TMDB 47232 Test</title>
+<tmdb>https://www.themoviedb.org/list/47232</tmdb>
 </dir>
 
 IMDB
