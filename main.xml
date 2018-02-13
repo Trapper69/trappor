@@ -37,6 +37,12 @@
 </dir>
 
 <dir>
+	<title>IMDB Action TV Shows</title>
+	<imdburl>genres/action</imdburl>
+	<thumbnail></thumbnail>
+</dir>
+	
+<dir>
 <title>testings</title>
 <link>https://raw.githubusercontent.com/Trapper69/trappor/master/testings.xml</link>
 </dir>
@@ -48,8 +54,8 @@
 </dir>
 
 <dir>
-<title>lists</title>
-<tmdb>list/http://www.imdb.com/user/ur84874002/lists</tmdb>
+<title>Action movies</title>
+<tmdb>list/https://www.themoviedb.org/list/47583</tmdb>
 </dir>
 
 <dir>
@@ -59,7 +65,7 @@
 
 <dir>
 <title>dc</title>
-<trakt>list/https://trakt.tv/users/jarvis-3589129/lists/dc</trakt>
+<trakt>list/https://trakt.tv/users/trapper-12/lists/anime-tv-show</trakt>
 </dir>
 
 <dir>
