@@ -26,10 +26,11 @@
 <link>https://raw.githubusercontent.com/Trapper69/trappor/master/tmdbyear2.xml</link>
 </dir>
 
+  
 <dir>
-    <title>Networks</title>
-    <link>https://raw.githubusercontent.com/Trapper69/trappor/master/networks.xml</link
-  </dir>
+<title>Networks</title>
+<link>https://raw.githubusercontent.com/Trapper69/trappor/master/networks.xml</link>
+</dir>
 
   <dir>
 <title>Imb</title>
@@ -47,10 +48,14 @@
 <link>https://raw.githubusercontent.com/Trapper69/trappor/master/testings.xml</link>
 </dir>
 
-
 <dir>
 <title>Trapper tv shows</title>
 <tmdb>list/https://www.themoviedb.org/list/46939</tmdb>
+</dir>
+
+<dir>
+<title>Beast list</title>
+<tmdb>list/https://www.themoviedb.org/list/47690</tmdb>
 </dir>
 
 <dir>
