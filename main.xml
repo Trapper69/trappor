@@ -57,20 +57,21 @@
 <title>Action movies</title>
 <tmdb>list/https://www.themoviedb.org/list/47583</tmdb>
 </dir>
-
+ 
 <dir>
-<title>anime-tv-show</title>
-<trakt>list/https://trakt.tv/users/trapper-12/lists/anime-tv-show</trakt>
+<title>Trapper animes</title>
+<tmdb>list/https://www.themoviedb.org/list/47315</tmdb>
 </dir>
 
 <dir>
-<title>dc</title>
-<trakt>list/https://trakt.tv/users/trapper-12/lists/anime-tv-show</trakt>
+<title>Trapper Urban</title>
+<tmdb>list/https://www.themoviedb.org/list/47582</tmdb>
 </dir>
 
 <dir>
 <title>list</title>
-<trakt>list/https://trakt.tv/users/jarvis-3589129/lists</trakt>
+<imdburl>list/http://www.imdb.com/user/ur84874002/lists</imdburl>
+<thumbnail></thumbnail>
 </dir>
   
 <dir>
@@ -103,12 +104,6 @@
 	  <title>TMDB Top Rated</title>
       <tmdb>tv/top_rated</tmdb>
 </dir>
-
-
-<dir>
-    <title>lists</title>
-    <link>http://www.imdb.com/user/ur84874002/lists</link>
-</dir>
   
   <dir>
   <title>Search Add On</title>
@@ -128,5 +123,11 @@
 <plugin>
 <name>search</name>
 <link>plugin://plugin.video.Trapper/?action=search</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<name>Testings</name>
+<link>plugin://plugin.video.jen/?action=developer</link>
 <thumbnail></thumbnail>
 </plugin>
