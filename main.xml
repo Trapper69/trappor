@@ -1,13 +1,54 @@
+<dir>
+<title>Action movies</title>
+<tmdb>list/https://www.themoviedb.org/list/47583</tmdb>
+</dir>
 
+<dir>
+<title>Beast Action</title>
+<tmdb>list/https://www.themoviedb.org/list/47747</tmdb>
+</dir>
+ 
  <dir>
-    <title>predator movies</title>
-    <link>https://raw.githubusercontent.com/Trapper69/trappor/master/predator%20movies.xml</link>
-   </dir>
- <dir>
-    <title>DC</title>
-    <link>https://raw.githubusercontent.com/Trapper69/trappor/master/DC.xml</link>
-   </dir>
-  <dir>
+<title>Predator mythology</title>
+<tmdb>list/https://www.themoviedb.org/list/47717</tmdb>
+</dir>
+
+<dir>
+<title>Comedy</title>
+<tmdb>list/https://www.themoviedb.org/list/47754</tmdb>
+</dir>
+
+<dir>
+   <title>DC</title>
+   <link>https://raw.githubusercontent.com/Trapper69/trappor/master/DC.xml</link>
+</dir>
+
+<dir>
+<title>Predator westerns</title>
+<tmdb>list/https://www.themoviedb.org/list/47711</tmdb>
+</dir>
+
+<dir>
+<title>Beast list</title>
+<tmdb>list/https://www.themoviedb.org/list/47690</tmdb>
+</dir>
+
+<dir>
+<title>Trapper tv shows</title>
+<tmdb>list/https://www.themoviedb.org/list/46939</tmdb>
+</dir>
+
+<dir>
+<title>Trapper animes</title>
+<tmdb>list/https://www.themoviedb.org/list/47315</tmdb>
+</dir>
+
+<dir>
+<title>Trapper Urban</title>
+<tmdb>list/https://www.themoviedb.org/list/47582</tmdb>
+</dir>
+
+<dir>
     <title>actors (2)</title>
     <link>https://raw.githubusercontent.com/Trapper69/trappor/master/actors%20(2).xml</link>
   </dir>
@@ -25,62 +66,16 @@
 <title>Movie Years</title>
 <link>https://raw.githubusercontent.com/Trapper69/trappor/master/tmdbyear2.xml</link>
 </dir>
-
-  
+ 
 <dir>
 <title>Networks</title>
 <link>https://raw.githubusercontent.com/Trapper69/trappor/master/networks.xml</link>
-</dir>
-
-  <dir>
-<title>Imb</title>
-<link>https://raw.githubusercontent.com/Trapper69/trappor/master/imdb.xml</link>
 </dir>
 
 <dir>
 	<title>IMDB Action TV Shows</title>
 	<imdburl>genres/action</imdburl>
 	<thumbnail></thumbnail>
-</dir>
-	
-<dir>
-<title>testings</title>
-<link>https://raw.githubusercontent.com/Trapper69/trappor/master/testings.xml</link>
-</dir>
-
-<dir>
-<title>Trapper tv shows</title>
-<tmdb>list/https://www.themoviedb.org/list/46939</tmdb>
-</dir>
-
-<dir>
-<title>Beast list</title>
-<tmdb>list/https://www.themoviedb.org/list/47690</tmdb>
-</dir>
-
-<dir>
-<title>Action movies</title>
-<tmdb>list/https://www.themoviedb.org/list/47583</tmdb>
-</dir>
- 
-<dir>
-<title>Trapper animes</title>
-<tmdb>list/https://www.themoviedb.org/list/47315</tmdb>
-</dir>
-
-<dir>
-<title>Trapper Urban</title>
-<tmdb>list/https://www.themoviedb.org/list/47582</tmdb>
-</dir>
-
-<dir>
-<title>Predator mythology</title>
-<tmdb>list/https://www.themoviedb.org/list/47717</tmdb>
-</dir>
-
-<dir>
-<title>Predator westerns</title>
-<tmdb>list/https://www.themoviedb.org/list/47711</tmdb>
 </dir>
 
 <dir>
